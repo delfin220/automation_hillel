@@ -12,7 +12,7 @@ for letter in "Hello world!":
     print(letter)
 #
 # # task 04 == Зробіть так, щоб кількість бананів була
-# завжди в чотири рази більша, ніж яблук
+# завжди в чотири рази більша, ніж яблукh
 apples = 2
 banana = apples * 4
 print(banana)
