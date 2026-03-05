@@ -92,7 +92,7 @@ test_index = adwentures_of_tom_sawer.startswith("By the time")
 print(test_index)
 
 # task 10
-""" Виведіть кількість слів останнього речення з adwentures_of_tom_sawer_sentences.
+""" Виведіть кількість слів останнього речення з adwentures_of_tom_sawer_sentencess.
 """
 last_sentence = adwentures_of_tom_sawer_sentences[-1]
 words = last_sentence.split()
