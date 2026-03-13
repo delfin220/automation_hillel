@@ -29,5 +29,6 @@ print(people_records)
 people_records[1], people_records[5] = people_records[5], people_records[1]
 print(people_records)
 
-result = people_records[6][2] >= 30 and people_records[10][2] >= 30 and people_records[13][2] >= 30
+indexes_to_check = [6, 10, 13]
+result = all(people_records[i][2] >= 30 for i in indexes_to_check)
 print(f"All people have age >= 30: {result}")
