@@ -53,6 +53,7 @@
     &quot;Python.car.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_6_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_6_3.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework_03.executor&quot;: &quot;Run&quot;,
     &quot;Python.homework_04.executor&quot;: &quot;Run&quot;,
     &quot;Python.people_records.executor&quot;: &quot;Run&quot;,
@@ -113,7 +114,7 @@
       <workItem from="1773313011630" duration="1474000" />
       <workItem from="1773401642890" duration="2801000" />
       <workItem from="1773424103147" duration="2595000" />
-      <workItem from="1773581831805" duration="2109000" />
+      <workItem from="1773581831805" duration="3685000" />
     </task>
     <servers />
   </component>
@@ -122,10 +123,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/automation_hillel$car.coverage" NAME="car Coverage Results" MODIFIED="1773582342567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_5/homework_5_1" />
-    <SUITE FILE_PATH="coverage/automation_hillel$home_work_6_2.coverage" NAME="home_work_6_2 Coverage Results" MODIFIED="1773583913248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6" />
+    <SUITE FILE_PATH="coverage/automation_hillel$home_work_6_2.coverage" NAME="home_work_6_2 Coverage Results" MODIFIED="1773584114190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6" />
     <SUITE FILE_PATH="coverage/automation_hillel$homework_04.coverage" NAME="homework_04 Coverage Results" MODIFIED="1773424111777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_4" />
     <SUITE FILE_PATH="coverage/automation_hillel$people_records.coverage" NAME="people_records Coverage Results" MODIFIED="1773401959513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_5/home_work_5_2" />
     <SUITE FILE_PATH="coverage/automation_hillel$home_work_6_1.coverage" NAME="home_work_6_1 Coverage Results" MODIFIED="1773424440394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6" />
+    <SUITE FILE_PATH="coverage/automation_hillel$home_work_6_3.coverage" NAME="home_work_6_3 Coverage Results" MODIFIED="1773584752408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_6" />
     <SUITE FILE_PATH="coverage/automation_hillel$homework_03.coverage" NAME="homework_03 Coverage Results" MODIFIED="1772371644103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_03" />
   </component>
 </project>
