@@ -5,5 +5,8 @@
 text_input = input("Enter a text: ")
 
 while "h" not in text_input.lower():
-    print(text_input)
+    print("Has no h or H in: ", text_input)
     text_input = input("Enter a text: ")
+else:
+    print("Has h or H in", text_input)
+
