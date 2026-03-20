@@ -7,3 +7,5 @@ for i in numbers:
     if i % 2 == 0:
         total = total + i
 print(total)
+
+
