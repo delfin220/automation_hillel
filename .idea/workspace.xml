@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36a0cc0f-f61f-46ff-a2d8-570581817076" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_8/home_work_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ai/mcp/mcp.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/lesson_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +61,7 @@
     "Python.homework_03.executor": "Run",
     "Python.homework_04.executor": "Run",
     "Python.homework_07.executor": "Run",
+    "Python.lesson_9.executor": "Run",
     "Python.people_records.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,7 +70,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "lesson__8",
+    "git-widget-placeholder": "lesson__9",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/arcus/PycharmProjects/automation_hillel/lesson_7",
@@ -98,8 +98,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
-        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+        <option value="bundled-python-sdk-1cd77e80b48f-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.32098.74" />
       </set>
     </attachedChunks>
   </component>
