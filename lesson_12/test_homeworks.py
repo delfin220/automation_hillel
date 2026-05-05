@@ -10,7 +10,7 @@ from homeworks import totalsum, count_unique, h_letter, Student
 class TestFilterStrings(unittest.TestCase):
 
    def test_totalsum(self):
-       self.assertEqual(totalsum([2,4]), 6)
+       self .assertEqual(totalsum([2,4]), 6)
    def test_empty(self):
        self.assertEqual(totalsum([]), 0)
    def test_not_even(self):
@@ -50,5 +50,5 @@ class TestStudent(unittest.TestCase):
 
 
 
-if __name__ == "__main__":
-    unittest.main()
+    if __name__ == "__main__":
+        unittest.main()
