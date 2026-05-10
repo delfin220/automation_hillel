@@ -1,44 +1,20 @@
-#Напишіть генератор, який повертає послідовність парних чисел від 0 до N.
+def even_numbers(n):
+    for number in range(0, n + 1, 2):
+        yield number
 
 
-def even_num(num):
-    for i in range(num + 1):
-        if i % 2 == 0:
-            yield i
-
-for n in even_num(100):
-    print(n)
-
-# Створіть генератор, який генерує послідовність Фібоначчі до певного числа N.
-
-def fib(n):
+def fibonacci(n):
     a, b = 0, 1
-    while a < n:
+    while a <= n:
         yield a
-        a, b = b, a+b
-
-for i in fib(100):
-    print(i)
+        a, b = b, a + b
 
 
-#Створіть генератор, який генерує послідовність Фібоначчі до певного числа N
+if __name__ == "__main__":
+    print("=== Тест even_numbers ===")
+    for num in even_numbers(10):
+        print(num)
 
-class ReverseIterator:
-    def __init__(self, my_list):
-        self.my_list = my_list
-        self.index = len(my_list) - 1
-
-    def __iter__(self):
-        return self
-
-    def __next__(self):
-        if self.index < 0:
-            raise StopIteration
-        value = self.my_list[self.index]
-        self.index -= 1
-        return value
-
-
-numbers = [10, 20, 30, 40, 50]
-reverse_iter = ReverseIterator(numbers)
-
+    print("\n=== Тест fibonacci ===")
+    for num in fibonacci(100):
+        print(num)
