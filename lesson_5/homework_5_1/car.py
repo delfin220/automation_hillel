@@ -47,8 +47,8 @@ car_data = {
 search_criteria = (2017, 1.6, 36000)
 
 min_year, min_engine, max_price = search_criteria
-result = []
-for car_name, car_info in car_data.items():
-  if car_info[1] >= min_year and car_info[2] >= min_engine and car_info[4] <= max_price:
-    result.append((car_name, car_info[4]))
-print(car_data)
+
+result = [(car_name, car_info[4]) for car_name, car_info in car_data.items()
+    if car_info[1] >= min_year and car_info[2] >= min_engine and car_info[4] <= max_price]
+result.sort(key=lambda x: x[1])
+print(result)
